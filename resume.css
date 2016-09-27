@@ -1,0 +1,53 @@
+
+html{
+	padding:50px 100px 50px 100px;
+	border:5px solid black;
+}
+*{
+	font-family:cursive,Verdana;
+}
+hr{
+	margin-top:-20px;
+}
+#objective{
+	padding-right:500px;
+	font-style: italic;
+
+}
+#pic{
+	height:200px;
+	width:10%;
+	transform: rotate(355deg);
+	margin-top:-175px;
+	margin-left:1000px;
+	position:absolute;
+}
+.left{
+	float:left;
+	font-family:Times;
+	font-style:italic;
+	clear:both;
+	padding-left:120px;
+	text-align:right;
+	border-right:2px thick black;
+}
+.lines{
+	width:80px;
+	transform:rotate(90deg);
+	margin-top:15px;
+	margin-left:200px;
+	clear:both;
+}
+.right{
+	float:left;
+	margin-top: -75px;
+	width:600px;
+	clear:both;
+	padding-left:250px;
+}
+.h3{
+	margin-top:50px;
+	clear:both;
+}
+
+
